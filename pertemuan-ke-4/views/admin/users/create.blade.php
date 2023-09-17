@@ -1,3 +1,3 @@
-<h1>Create User</h1>
+<h1>Create News</h1>
 
-<a href="{{ url('admin/dashboard/users') }}">Back</a>
+<a href="{{ url('admin/news') }}">Back</a>
